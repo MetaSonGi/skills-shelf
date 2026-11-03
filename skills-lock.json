@@ -1,0 +1,121 @@
+{
+  "verifiedAt": "2026-11-03",
+  "repositories": [
+    {
+      "repo": "Nutlope/hallmark",
+      "commit": "4f6a46c6dc325d40ab268c93e25c7b96676ebccd",
+      "skills": [
+        {
+          "name": "hallmark",
+          "path": "skills/hallmark"
+        }
+      ]
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "commit": "9fadc41729c38fd47d7ae622b501558653f9d2e9",
+      "skills": [
+        {
+          "name": "impeccable",
+          "path": "plugin/skills/impeccable"
+        }
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "commit": "c1c8a8c1471069fb0e188eeaff69b8e8db6564a8",
+      "skills": [
+        {
+          "name": "security-audit",
+          "path": "skills/security-audit"
+        }
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "skills": [
+        {
+          "name": "brainstorming",
+          "path": "skills/brainstorming"
+        },
+        {
+          "name": "diagnosing-superpowers",
+          "path": "skills/diagnosing-superpowers"
+        },
+        {
+          "name": "dispatching-parallel-agents",
+          "path": "skills/dispatching-parallel-agents"
+        },
+        {
+          "name": "executing-plans",
+          "path": "skills/executing-plans"
+        },
+        {
+          "name": "finishing-a-development-branch",
+          "path": "skills/finishing-a-development-branch"
+        },
+        {
+          "name": "receiving-code-review",
+          "path": "skills/receiving-code-review"
+        },
+        {
+          "name": "requesting-code-review",
+          "path": "skills/requesting-code-review"
+        },
+        {
+          "name": "subagent-driven-development",
+          "path": "skills/subagent-driven-development"
+        },
+        {
+          "name": "systematic-debugging",
+          "path": "skills/systematic-debugging"
+        },
+        {
+          "name": "test-driven-development",
+          "path": "skills/test-driven-development"
+        },
+        {
+          "name": "using-git-worktrees",
+          "path": "skills/using-git-worktrees"
+        },
+        {
+          "name": "using-superpowers",
+          "path": "skills/using-superpowers"
+        },
+        {
+          "name": "verification-before-completion",
+          "path": "skills/verification-before-completion"
+        },
+        {
+          "name": "writing-plans",
+          "path": "skills/writing-plans"
+        },
+        {
+          "name": "writing-skills",
+          "path": "skills/writing-skills"
+        }
+      ]
+    },
+    {
+      "repo": "unclebob/ub-mode",
+      "commit": "3da62bf3fcfd2034de41f30d920d2739e566171f",
+      "skills": [
+        {
+          "name": "ub-mode",
+          "path": "."
+        }
+      ]
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "commit": "12af471f627f866411b4bd785b19646d3672784c",
+      "skills": [
+        {
+          "name": "design-taste-frontend",
+          "path": "skills/taste-skill"
+        }
+      ]
+    }
+  ]
+}
